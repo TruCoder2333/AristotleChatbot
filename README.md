@@ -1,14 +1,8 @@
 🤖 Aristotle Chatbot
 
-A Retrieval-Augmented Generation (RAG)-powered chatbot that specializes in Aristotle’s philosophy. Built with GPT API, LangChain, FAISS, and vector databases, this chatbot can answer questions based on Aristotle's works and provide philosophical insights.
+A Retrieval-Augmented Generation (RAG)-powered chatbot that specializes in Aristotle’s philosophy. Built with GPT API, LangChain, FAISS, and vector databases, this chatbot can answer questions based on Aristotle's works (poetics, politics, ethics) and provide philosophical insights with more detail and nuance than base GPT
 
 📌 Features
-
-✅ Retrieval-Augmented Generation (RAG) - Enhances LLM responses with Aristotle's texts.
-✅ Fast Semantic Search - Uses FAISS or another vector store for retrieving relevant passages.
-✅ Chunking & Embeddings - Efficient text processing with chunk overlap for better context.
-✅ Customizable Knowledge Base - Easily add more Aristotelian texts.
-✅ API-Based - Uses OpenAI GPT models for intelligent response generation.
 
 🚀 Quick Start
 
